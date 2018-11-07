@@ -7,7 +7,7 @@ node.js学习的五个经典项目
 3.漂流瓶  
 实现一个简易的漂流品应用，主要学习NODEJS整合redis的使用。  
 4.在线聊天室  
-实现聊天室应用，涉及到nodejs.socket.io,angular.js等相关技术。
+实现聊天室应用，涉及到nodejs.socket.io,angular.js等相关技术。  
 5.个人博客  
 实现个人博客系统，学会使用nodejs基础知识，mongodb数据库和express框架开发。
 
